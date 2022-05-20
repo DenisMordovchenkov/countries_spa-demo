@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/countries_spa-demo/static/css/main.65adaab0.css",
+    "main.js": "/countries_spa-demo/static/js/main.7c950d38.js",
+    "index.html": "/countries_spa-demo/index.html",
+    "main.65adaab0.css.map": "/countries_spa-demo/static/css/main.65adaab0.css.map",
+    "main.7c950d38.js.map": "/countries_spa-demo/static/js/main.7c950d38.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.65adaab0.css",
+    "static/js/main.7c950d38.js"
+  ]
+}
